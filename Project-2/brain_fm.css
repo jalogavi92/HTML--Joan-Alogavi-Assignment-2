@@ -1,0 +1,62 @@
+body{
+    Color: white;	
+	background-color: blue;
+	margin:0px;
+	font-family:Arial;
+}
+
+input[type='button']{
+	padding:10px 10px;
+	Color: white;
+	font-weight: bold;
+	border: 0px;
+	
+}
+
+.section-1{
+	
+	display: flex;
+	flex-direction: row;
+	align-items: center;	
+}
+
+.section-2{	
+	flex: 1;
+	flex-direction: column;
+}
+
+
+.click-1{
+	font-size:15px;
+	border-radius:50px;
+	width:100px;
+	height:35px;
+	border:10px;
+	background-image:linear-gradient(to right, #FDC830,#F37335);	
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: #999999;
+}
+
+.headline-1 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
+}
+.headline-2 {
+  font-size: 20wpx;
+  font-weight: bold;
+}
+
+.headline-3 {
+  font-size: 45px;
+  font-weight: bold;
+}
+
